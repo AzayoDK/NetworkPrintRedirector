@@ -1,0 +1,5 @@
+pyserial
+cryptography>=41.0.0
+pycryptodome
+pystray
+Pillow
