@@ -51,7 +51,7 @@ Aplicação do Usuário -> `COM2` (Cliente via com0com) -> `COM3` (Cliente via c
 
 1.  Clone o repositório:
     ```bash
-    git clone [URL do seu repositório Git]
+    git clone https://github.com/AzayoDK/NetworkPrintRedirector.git
     cd [nome-da-pasta-do-projeto]
     ```
 2.  (Opcional) Crie e ative um ambiente virtual:
